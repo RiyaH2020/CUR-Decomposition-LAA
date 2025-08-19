@@ -18,12 +18,7 @@ Compared CUR with SVD on approximation error
 
 Applied to GIST gene expression dataset for interpretable insights
 
-**Run It:**
-git clone <repo_link>
-cd CUR-Decomposition
-jupyter notebook CUR_Decomposition.ipynb
 
-
-Key Takeaway:
+**Key Takeaway:**
 
 CUR decomposition offers interpretability + competitive accuracy, bridging abstract linear algebra with real-world data analysis.
